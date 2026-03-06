@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there 👋 I'm Keah Criselle Bareno
 
-<!--
-**KeahB/KeahB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BS Information Technology Graduate  
+💻 Passionate about Web Development and AI  
+🌱 Currently learning React, Tailwind CSS, and Backend Development  
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+- HTML
+- CSS
+- JavaScript
+- React
+- Tailwind CSS
+- MySQL
+- Node.js
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Projects
+- Keah Portfolio
+- Country Information Web App
+- News Scraper using Puppeteer
+
+
+## 📫 Connect with me
+- LinkedIn: Keah Criselle Bareno
+- Email: barenokcy@gmail.com
