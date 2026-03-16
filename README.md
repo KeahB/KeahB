@@ -48,6 +48,12 @@ I am passionate about building modern web applications and solving real-world pr
 ---
 
 ## 📂 Featured Projects
+🔹 ****AI Data Explorer** ** 
+The app allows users to upload CSV or JSON datasets. Once uploaded, it instantly performs a deep statistical analysis, identifying numeric and categorical columns.
+
+🔹 **Vagabound AI**  
+A web-based application that helps users generate personalized travel itineraries using artificial intelligence. 
+
 🔹 **Daro Barangay Management System (Capstone Project)**  
 A system designed to manage barangay records, services, and resident requests.
 
@@ -60,20 +66,13 @@ A web scraper built using **Puppeteer and Cheerio** that extracts and displays n
 🔹 **Keah Clinic Appointment System**  
 A clinic management system with appointment booking and admin dashboard using **Laravel and React**.
 
-
----
-
-## 📊 GitHub Stats
-
-![Keah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight)
-
 ---
 
 ## 🌐 Connect With Me
 
-💼 LinkedIn: ()  
+💼 LinkedIn: (https://ph.linkedin.com/in/keah-criselle-bareno-18486b397)  
 📧 Email: (barenokcy@gmail.com)  
-🌍 Portfolio: ()
+🌍 Portfolio: (keahb.github.io/portfolio)
 
 ---
 
