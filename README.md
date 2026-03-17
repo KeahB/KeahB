@@ -17,64 +17,12 @@
 
 💬 *"Building intelligent systems like it's a game level."*
 
----
-
-# 🗺️ CURRENT QUESTS
-
-- 🌱 Leveling up in **React + Backend + AI**
-- ⚙️ Building **AI-powered systems**
-- 🧩 Exploring **automation & scraping tools**
-
----
-
-# ⚔️ SKILLS INVENTORY
-
-## 🎨 Frontend
-![HTML](https://img.shields.io/badge/HTML-0f0?style=for-the-badge)
-![CSS](https://img.shields.io/badge/CSS-0f0?style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/JavaScript-0f0?style=for-the-badge)
-![React](https://img.shields.io/badge/React-0f0?style=for-the-badge)
-
-## ⚙️ Backend
-![Node.js](https://img.shields.io/badge/Node.js-0f0?style=for-the-badge)
-![Laravel](https://img.shields.io/badge/Laravel-0f0?style=for-the-badge)
-![MySQL](https://img.shields.io/badge/MySQL-0f0?style=for-the-badge)
-
-## 🤖 AI & Tools
-![AI](https://img.shields.io/badge/AI-0f0?style=for-the-badge)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-0f0?style=for-the-badge)
-![Automation](https://img.shields.io/badge/Automation-0f0?style=for-the-badge)
-
----
-
-# 🧩 GAME MISSIONS (PROJECTS)
-
-🎯 **AI Data Explorer**  
-> Upload datasets → auto analysis + insights  
-
-🌍 **Vagabond AI**  
-> AI-generated travel itineraries  
-
-🏢 **Barangay System**  
-> Manage records & services  
-
-🌐 **Country Info App**  
-> API + search/filter  
-
-📰 **News Scraper**  
-> Puppeteer + Cheerio  
-
-🏥 **Keah Clinic System**  
-> Appointment + admin dashboard  
-
----
 
 # 🏆 ACHIEVEMENTS UNLOCKED
 
 🏅 Civil Service Eligibility  
 📜 TESDA NC II  
 
----
 
 # 🐍 CONTRIBUTION SNAKE (ANIMATION)
 
