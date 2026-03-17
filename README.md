@@ -1,4 +1,4 @@
-# 👾 Keah Bareno | AI Developer
+# 👾 Keah Bareno | Frontend Web Developer - Prompt Engineer
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=600&lines=AI+Developer;Full-Stack+Web+Developer;React+%7C+Laravel+%7C+Node.js;Building+Smart+Web+Solutions)
 
