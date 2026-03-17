@@ -76,15 +76,6 @@
 
 ---
 
-# 📊 PLAYER STATS
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=chartreuse-dark"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=chartreuse-dark"/>
-</p>
-
----
-
 # 🐍 CONTRIBUTION SNAKE (ANIMATION)
 
 <p align="center">
