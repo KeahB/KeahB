@@ -1,118 +1,119 @@
-# 👾 Keah Bareno | Frontend Web Developer - Prompt Engineer
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=600&lines=AI+Developer;Full-Stack+Web+Developer;React+%7C+Laravel+%7C+Node.js;Building+Smart+Web+Solutions)
-
----
-
-## 🧠 Profile Overview
-🎓 BS Information Technology Graduate  
-💻 Web Developer | AI Prompt Engineer | IT Support Enthusiast  
-📍 Philippines  
-
-I build **intelligent web applications** that combine modern development with AI-powered solutions.  
-Passionate about solving real-world problems through automation, data, and scalable systems.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=39FF14&center=true&vCenter=true&width=700&lines=👾+Welcome+to+Keah's+Dev+World;AI+Developer+%7C+Full+Stack+Engineer;Loading+Projects...;Ready+Player+One!" />
+</p>
 
 ---
 
-## 🚀 Current Mission
-- 🌱 Mastering **React, Backend Systems, and AI Tools**
-- ⚙️ Building **AI-powered web applications**
-- 🧩 Exploring **automation & data-driven systems**
+# 🎮 PLAYER PROFILE
+
+<p align="center">
+  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="200"/>
+</p>
+
+👤 **Name:** Keah Bareno  
+🎓 **Class:** BS Information Technology  
+🧠 **Role:** AI Developer / Web Engineer  
+📍 **Location:** Philippines  
+
+💬 *"Building intelligent systems like it's a game level."*
 
 ---
 
-## 🛠️ Tech Stack
+# 🗺️ CURRENT QUESTS
 
-### 🎨 Frontend
-![HTML](https://img.shields.io/badge/HTML-111?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-111?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-111?style=for-the-badge&logo=javascript)
-![React](https://img.shields.io/badge/React-111?style=for-the-badge&logo=react)
-![Tailwind](https://img.shields.io/badge/Tailwind-111?style=for-the-badge&logo=tailwind-css)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-111?style=for-the-badge&logo=bootstrap)
-
-### ⚙️ Backend
-![Node.js](https://img.shields.io/badge/Node.js-111?style=for-the-badge&logo=node.js)
-![Laravel](https://img.shields.io/badge/Laravel-111?style=for-the-badge&logo=laravel)
-![MySQL](https://img.shields.io/badge/MySQL-111?style=for-the-badge&logo=mysql)
-
-### 🧰 Tools & Technologies
-![Git](https://img.shields.io/badge/Git-111?style=for-the-badge&logo=git)
-![XAMPP](https://img.shields.io/badge/XAMPP-111?style=for-the-badge)
-![REST API](https://img.shields.io/badge/API-111?style=for-the-badge)
-![Puppeteer](https://img.shields.io/badge/Puppeteer-111?style=for-the-badge)
-![Cheerio](https://img.shields.io/badge/Cheerio-111?style=for-the-badge)
-![Canva](https://img.shields.io/badge/Canva-111?style=for-the-badge)
-![VS Code](https://img.shields.io/badge/VSCode-111?style=for-the-badge)
-
-### 🤖 AI & Productivity
-![AI](https://img.shields.io/badge/AI_Prompt_Engineering-111?style=for-the-badge)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-111?style=for-the-badge)
-![Automation](https://img.shields.io/badge/Automation-111?style=for-the-badge)
+- 🌱 Leveling up in **React + Backend + AI**
+- ⚙️ Building **AI-powered systems**
+- 🧩 Exploring **automation & scraping tools**
 
 ---
 
-## 📊 GitHub Stats
+# ⚔️ SKILLS INVENTORY
 
-![Keah's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
+## 🎨 Frontend
+![HTML](https://img.shields.io/badge/HTML-0f0?style=for-the-badge)
+![CSS](https://img.shields.io/badge/CSS-0f0?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-0f0?style=for-the-badge)
+![React](https://img.shields.io/badge/React-0f0?style=for-the-badge)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight)
+## ⚙️ Backend
+![Node.js](https://img.shields.io/badge/Node.js-0f0?style=for-the-badge)
+![Laravel](https://img.shields.io/badge/Laravel-0f0?style=for-the-badge)
+![MySQL](https://img.shields.io/badge/MySQL-0f0?style=for-the-badge)
 
----
-
-## 🧩 Featured Projects
-
-### 🔹 AI Data Explorer
-📊 Upload datasets → instant statistical analysis  
-- Detects numeric & categorical data  
-- Automated insights & visualization  
-
----
-
-### 🔹 Vagabond AI
-🌍 AI-powered travel planner  
-- Generates personalized itineraries  
-- Smart recommendations  
+## 🤖 AI & Tools
+![AI](https://img.shields.io/badge/AI-0f0?style=for-the-badge)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-0f0?style=for-the-badge)
+![Automation](https://img.shields.io/badge/Automation-0f0?style=for-the-badge)
 
 ---
 
-### 🔹 Barangay Management System
-🏢 Capstone Project  
-- Manages records, services, and requests  
+# 🧩 GAME MISSIONS (PROJECTS)
+
+🎯 **AI Data Explorer**  
+> Upload datasets → auto analysis + insights  
+
+🌍 **Vagabond AI**  
+> AI-generated travel itineraries  
+
+🏢 **Barangay System**  
+> Manage records & services  
+
+🌐 **Country Info App**  
+> API + search/filter  
+
+📰 **News Scraper**  
+> Puppeteer + Cheerio  
+
+🏥 **Keah Clinic System**  
+> Appointment + admin dashboard  
 
 ---
 
-### 🔹 Country Info Web App
-🌐 API-powered React app  
-- Search & filter country data  
+# 🏆 ACHIEVEMENTS UNLOCKED
+
+🏅 Civil Service Eligibility  
+📜 TESDA NC II  
 
 ---
 
-### 🔹 News Scraper
-📰 Web scraping system  
-- Built with Puppeteer & Cheerio  
+# 📊 PLAYER STATS
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=chartreuse-dark"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=chartreuse-dark"/>
+</p>
 
 ---
 
-### 🔹 Keah Clinic System
-🏥 Appointment + Admin Dashboard  
-- Laravel + React full-stack system  
+# 🐍 CONTRIBUTION SNAKE (ANIMATION)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
+</p>
 
 ---
 
-## 🏆 Achievements
-- 🎖 Civil Service Professional Eligibility Holder  
-- 📜 TESDA NC II Holder  
+# 🌐 CONNECT PORTAL
+
+💼 LinkedIn  
+https://ph.linkedin.com/in/keah-criselle-bareno-18486b397  
+
+📧 Email  
+barenokcy@gmail.com  
+
+🌍 Portfolio  
+https://keahb.github.io/portfolio  
 
 ---
 
-## 🌐 Connect With Me
+# ⚡ GAME PHILOSOPHY
 
-💼 LinkedIn: https://ph.linkedin.com/in/keah-criselle-bareno-18486b397  
-📧 Email: barenokcy@gmail.com  
-🌍 Portfolio: https://keahb.github.io/portfolio  
-
----
-
-## ⚡ Developer Philosophy
 > "Technology is not just about coding, it's about creating solutions that improve people's lives."
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="300"/>
+</p>
+
+🎮 **GAME STATUS: ACTIVE | LEVELING UP...**
